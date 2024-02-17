@@ -14,4 +14,4 @@ pip install -r requirements.txt
 ```
 
 ## Run Script
-```python laundry.py```
+```python laundry.py [machine #]```
