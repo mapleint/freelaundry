@@ -1,4 +1,8 @@
-# FREE LAUNDRY (sorry CSC Go)
+# (formerly) FREE LAUNDRY (sorry CSC Go)
+## NOTICE
+The bug (lack of verification of user supplied data) has since been fixed after being publicized by other researchers.  
+As such, this is a public archive and proof that I did independently discover and weaponize the exploit.
+
 
 ## Installation
 Clone this repo:
